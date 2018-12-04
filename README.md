@@ -1,3 +1,3 @@
 # SHAKE-TREE
 
-Oğuzhan külcü
+Proje'nin oluşması için, npm install komutunu uygulayın.
